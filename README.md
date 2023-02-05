@@ -46,7 +46,6 @@ The player who can recite the root of 2 the furthest starts. Calculators are not
 When it's a player's turn, they can use their sticks to expand their root vertically, horizontally and diagonally.
 Each player receives a stick at the beginning of his turn. In addition, he gets another stick for each water square that is occupied by his root.
 He can then use these sticks to expand his root.
-[Show image from movement grid.]
 Roots are always extended by a connector.
 Choose one of your connecting pieces that is on the board. Then select a square that is directly adjacent to (i.e. horizontal, vertical or diagonal to) the square with this connector.
 
